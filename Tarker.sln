@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{D393B68A-A942-4319-B323-6CDA5D2A4C6A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{17F12646-20A0-4C04-AD5C-09D7926BAA0C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{72603659-E63E-4BBE-9895-D53F7DE46B11}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{3D474A0F-332A-4CDA-9D77-6AA6E03B6F94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarker.Booking.API", "src\Tarker.Booking.API\Tarker.Booking.API.csproj", "{66C6E25F-FAE9-4D6A-B542-28844E8813E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarker.Booking.Persistence", "src\Tarker.Booking.Persistence\Tarker.Booking.Persistence.csproj", "{8FCA2872-67EB-49F1-B7C8-E28498411E07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarker.Booking.External", "src\Tarker.Booking.External\Tarker.Booking.External.csproj", "{3860E644-8DF2-4B88-9193-A483E44FBCA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarker.Booking.Domain", "src\Tarker.Booking.Domain\Tarker.Booking.Domain.csproj", "{5294A2A5-AF18-475A-9D70-F982A36F41B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarker.Booking.Application", "src\Tarker.Booking.Application\Tarker.Booking.Application.csproj", "{D9A4B443-1D21-4AAA-9C38-ACA92D4A2D47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarker.Booking.Common", "src\Tarker.Booking.Common\Tarker.Booking.Common.csproj", "{23E39AE8-B74A-4932-8642-944A1E131AD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66C6E25F-FAE9-4D6A-B542-28844E8813E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66C6E25F-FAE9-4D6A-B542-28844E8813E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66C6E25F-FAE9-4D6A-B542-28844E8813E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66C6E25F-FAE9-4D6A-B542-28844E8813E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FCA2872-67EB-49F1-B7C8-E28498411E07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FCA2872-67EB-49F1-B7C8-E28498411E07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FCA2872-67EB-49F1-B7C8-E28498411E07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FCA2872-67EB-49F1-B7C8-E28498411E07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3860E644-8DF2-4B88-9193-A483E44FBCA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3860E644-8DF2-4B88-9193-A483E44FBCA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3860E644-8DF2-4B88-9193-A483E44FBCA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3860E644-8DF2-4B88-9193-A483E44FBCA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5294A2A5-AF18-475A-9D70-F982A36F41B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5294A2A5-AF18-475A-9D70-F982A36F41B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5294A2A5-AF18-475A-9D70-F982A36F41B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5294A2A5-AF18-475A-9D70-F982A36F41B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9A4B443-1D21-4AAA-9C38-ACA92D4A2D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A4B443-1D21-4AAA-9C38-ACA92D4A2D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A4B443-1D21-4AAA-9C38-ACA92D4A2D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A4B443-1D21-4AAA-9C38-ACA92D4A2D47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23E39AE8-B74A-4932-8642-944A1E131AD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E39AE8-B74A-4932-8642-944A1E131AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E39AE8-B74A-4932-8642-944A1E131AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E39AE8-B74A-4932-8642-944A1E131AD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{66C6E25F-FAE9-4D6A-B542-28844E8813E5} = {D393B68A-A942-4319-B323-6CDA5D2A4C6A}
+		{8FCA2872-67EB-49F1-B7C8-E28498411E07} = {17F12646-20A0-4C04-AD5C-09D7926BAA0C}
+		{3860E644-8DF2-4B88-9193-A483E44FBCA7} = {17F12646-20A0-4C04-AD5C-09D7926BAA0C}
+		{5294A2A5-AF18-475A-9D70-F982A36F41B8} = {72603659-E63E-4BBE-9895-D53F7DE46B11}
+		{D9A4B443-1D21-4AAA-9C38-ACA92D4A2D47} = {72603659-E63E-4BBE-9895-D53F7DE46B11}
+		{23E39AE8-B74A-4932-8642-944A1E131AD5} = {3D474A0F-332A-4CDA-9D77-6AA6E03B6F94}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF2156EB-E019-46BE-B6E0-398FF4EF9D5A}
+	EndGlobalSection
+EndGlobal

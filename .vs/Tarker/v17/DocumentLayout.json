@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Tarker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23E39AE8-B74A-4932-8642-944A1E131AD5}|src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj|c:\\users\\pc\\desktop\\tarker\\src\\tarker.booking.common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E39AE8-B74A-4932-8642-944A1E131AD5}|src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj|solutionrelative:src\\tarker.booking.common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A4B443-1D21-4AAA-9C38-ACA92D4A2D47}|src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj|c:\\users\\pc\\desktop\\tarker\\src\\tarker.booking.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A4B443-1D21-4AAA-9C38-ACA92D4A2D47}|src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj|solutionrelative:src\\tarker.booking.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5294A2A5-AF18-475A-9D70-F982A36F41B8}|src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj|c:\\users\\pc\\desktop\\tarker\\src\\tarker.booking.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5294A2A5-AF18-475A-9D70-F982A36F41B8}|src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj|solutionrelative:src\\tarker.booking.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3860E644-8DF2-4B88-9193-A483E44FBCA7}|src\\Tarker.Booking.External\\Tarker.Booking.External.csproj|c:\\users\\pc\\desktop\\tarker\\src\\tarker.booking.external\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3860E644-8DF2-4B88-9193-A483E44FBCA7}|src\\Tarker.Booking.External\\Tarker.Booking.External.csproj|solutionrelative:src\\tarker.booking.external\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FCA2872-67EB-49F1-B7C8-E28498411E07}|src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj|c:\\users\\pc\\desktop\\tarker\\src\\tarker.booking.persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FCA2872-67EB-49F1-B7C8-E28498411E07}|src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj|solutionrelative:src\\tarker.booking.persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Tarker\\src\\Tarker.Booking.Common\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\Tarker.Booking.Common\\Class1.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Tarker\\src\\Tarker.Booking.Common\\Class1.cs",
+              "RelativeToolTip": "src\\Tarker.Booking.Common\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T12:16:06.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Tarker\\src\\Tarker.Booking.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\Tarker.Booking.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Tarker\\src\\Tarker.Booking.Application\\Class1.cs",
+              "RelativeToolTip": "src\\Tarker.Booking.Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T12:15:45.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Tarker\\src\\Tarker.Booking.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\Tarker.Booking.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Tarker\\src\\Tarker.Booking.Domain\\Class1.cs",
+              "RelativeToolTip": "src\\Tarker.Booking.Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T12:15:20.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Tarker\\src\\Tarker.Booking.External\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\Tarker.Booking.External\\Class1.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Tarker\\src\\Tarker.Booking.External\\Class1.cs",
+              "RelativeToolTip": "src\\Tarker.Booking.External\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T12:14:37.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Tarker\\src\\Tarker.Booking.Persistence\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\Tarker.Booking.Persistence\\Class1.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Tarker\\src\\Tarker.Booking.Persistence\\Class1.cs",
+              "RelativeToolTip": "src\\Tarker.Booking.Persistence\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T12:14:05.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
